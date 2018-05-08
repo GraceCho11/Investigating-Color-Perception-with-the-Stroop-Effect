@@ -8,3 +8,9 @@ The objective of this study is to investigate a classic phenomenon known as the 
 # Installation
 
 https://www.python.org/downloads/
+
+# Meta
+
+Grace Cho - Circleoffifths.7@gmail.com
+
+https://github.com/GraceCho11
