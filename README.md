@@ -4,3 +4,7 @@ The objective of this study is to investigate a classic phenomenon known as the 
 # Screenshot of one of the histograms used
 
 ![screenshot 2018-05-08 02 25 33](https://user-images.githubusercontent.com/38387040/39741319-7bf11fd4-5267-11e8-889c-9b4b52a02f1d.png)
+
+# Installation
+
+https://www.python.org/downloads/
